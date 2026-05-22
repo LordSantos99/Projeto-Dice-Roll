@@ -20,10 +20,4 @@ Getting Started
 
 1. Download and run the app.
 # dice-roller-android
-# dice-roller-android
-# dice-roller-android
-# DiceRoller
-# Projeto-Dice-Roller
-# Projeto-Dice-Roller
-# Projeto-Dice-roller-
-# Projeto-Dice-Roller
+
